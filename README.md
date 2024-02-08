@@ -72,15 +72,59 @@
 ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/100f602c-9db9-48e7-b464-d9ed02291f48)
 
 ## Passo 8
+- No menu lateral esquerdo, clique em "Containers", depois em "+ containers", que abrirá uma aba lateral, que deve ser preenchida conforme imagem abaixo. Depois clique em "create".
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/50a65a0e-8846-431a-b4c5-4e6952bd7782)
 
 ## Passo 9
+- Depois de criado, as informações são atualizadas na tela. Selecione para abrir o container.
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/e896d151-f78f-4bc2-b073-a92ea9b8da4f)
 
 ## Passo 10
+- Em um novo navegador, faça o download do zip contido no link fornecido na documentação: [https://aka.ms/mslearn-coffee-reviews](https://aka.ms/mslearn-coffee-reviews), e extraia os arquivos em uma pasta "reviews"
+- Clique então em upload, que abrirá uma aba lateral. Selecione então todos os arquivos descompactados, e clique em "upload"
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/508deac0-ff04-4409-8657-f9a04e6603b1)
+
+-E assim ficam os arquivos carregados
+  
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/98e99fac-abae-44bb-a2d1-93f22ae4ad4d)
 
 ## Passo 11
+- Agora voltamos ao Ai Search, através do campo de busca.
+
+ ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/a6f1fdad-4f91-4aaa-85b8-9b46fb31fa2e)
+
+- Selecione o serviço criado anteriormente
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/fc322c64-2ee2-48f1-9f3c-3f9124cf6b3e)
+
+- Clique em "import data"
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/0e17e2bd-c85e-42c6-918b-2e104850e4ea)
 
 ## Passo 12
+- Selecione o Azure Blob Storage
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/d3b17083-d67e-41f4-a75f-18bcd624aa96)
+
+- Preencha os dados conforme os passos na imagem.
+- A informações não presentes nos passos já vêm preenchidas, ou devem ser deixadas em branco.
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/efce68bc-a7c1-43ef-b85e-fb31725508ae)
+
+## Passo 13
+- Na aba "Add Cognitive skills (optional)" selecione seu recurso.
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/ae1ece30-854a-455a-b4ed-3ee6be67bea5)
+
+
+## Passo 14
+
+
+## Passo 15
+
 
 
 
