@@ -50,16 +50,37 @@
 ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/375a3f7e-f4e0-4a6a-86f1-3b1289cba152)
 
 ## Passo 6
+- Clique então em "Create"
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/e5ec4e33-e8f3-47c3-b69b-94d1ef082498)
+
+- Preencha os dados conforme imagem abaixo. Os demais que não estão numerados, possivelmente já virão preenchidos.
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/8e5cc876-beb7-48c4-a93e-fb740c98dbb6)
+
+- Após a validação dos dados, clique em "Create"
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/130dedb0-475e-4e89-9cdc-8ba82d138cee)
+
+- Depois de criado, clique em "go to resource"
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/1f081965-3967-4bc8-a11b-4f9c7736b3b5)
 
 ## Passo 7
+- Na tela do storage, no menu lateral esquerdo, procure e selecione a opção "configuration". Ela vai abrir a tela da direita que está sendo mostrada abaixo. Clique para habilitar a opção conforme imagem e clique em "save".
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/100f602c-9db9-48e7-b464-d9ed02291f48)
 
 ## Passo 8
 
 
 ## Passo 9
 
+## Passo 10
+
+## Passo 11
+
+## Passo 12
 
 
 
