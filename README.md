@@ -115,9 +115,33 @@
 ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/efce68bc-a7c1-43ef-b85e-fb31725508ae)
 
 ## Passo 13
-- Na aba "Add Cognitive skills (optional)" selecione seu recurso.
+- Na aba "Add Cognitive skills (optional)", em "Attach AI Services", selecione seu recurso.
 
-![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/ae1ece30-854a-455a-b4ed-3ee6be67bea5)
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/faced554-3182-4f40-b270-6f760882eed6)
+
+- Em "add enrichments" preencher conforme imagem abaixo
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/d94f15e3-930e-4dcb-a64d-dc4e26e50111)
+
+- Em "Save enrichments to a knowledge store", selecione "Image projections".
+  - Ao aparecer a mensagem abaixo, selecione "choose an existing connection"
+    
+       ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/2f2fd8d4-07b8-4b2e-9c35-6d14ee9d328b)
+       - Escolha o storage criado anteriormente
+    
+       ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/e6c0f55c-31ae-4ea6-becd-045b327550e5)
+
+       - Depois clique em "+ container", e siga os passos da imagem abaixo
+    
+       ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/813ebaaf-1677-4266-a0f2-5907479c9d02)
+
+       - Selecione então o knowledge-store e clique em "select"
+
+       ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/b6393f6b-e382-41b6-a762-d0a1774d2fa7)
+
+  - Selecione as demais informações conforme imagem abaixo
+      
+  ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/8b97ad1e-257e-4b3f-9388-d062f0462736)
 
 
 ## Passo 14
