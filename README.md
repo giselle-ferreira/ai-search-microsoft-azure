@@ -1,6 +1,6 @@
 # ai-search-microsoft-azure
 
-- Passo a passo de experimento utilizando **Azure Ai Search** indexação e extração de dados. 
+- Passo a passo de experimento utilizando **Azure Ai Search** indexação e mineração de dados. 
 - Realizado como desafio de projeto no Bootcamp **Microsoft Azure AI Fundamentals** da [Dio.me](https://dio.me)
 - Documentação: [https://aka.ms/ai900-ai-search](https://aka.ms/ai900-ai-search)
 
