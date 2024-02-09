@@ -160,22 +160,29 @@
 
 ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/5f321bd9-fe19-4f9f-b64f-2b90952c201c)
 
-
-
 ## Passo 16
+- Abrir o Azure AI Services| Ai Search, e clicar em Search Explorer
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/c2b4c1e7-5361-46de-a265-05259758fa71)
 
 ## Passo 17
+- No Search Explorer, inclua a query fornecida pela documentação ```search=*&$count=true```, e clique em "search"
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/68f37a63-b468-4f1a-935a-e93c8d35dbc2)
 
+- Agora filtramos pela localização ```search=locations:'Chicago'``` e ele vai trazer as reviews com os sentimentos de cada.
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/5aeabaad-df92-4509-8454-00f9a1f5e7b3)
 
+- Agora filtramos pelo sentimento negativo ```search=sentiment:'negative'```
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/91ee8e46-af64-469e-b836-c54542f396a1)
 
 
 ##
 
 ## Comentários
-Pude perceber que as análise são bem similares e satisfatórias, não importa o idioma que estamos trabalhando, seja inglês, português, espanhol ou francês, confome nos exemplos adicionais que eu trouxe aqui. Não encontrei discrepâncias, e percebi que realmente é uma ferramenta poderosa para empresas no quesito de análise de satisfação dos clientes. 
+Muito interessante a funcionalidade da ferramenta para estabelecimentos que prestam serviço. A análise funciona muito bem identificando as frases-chaves, sentimento, localização, e a busca agrega de forma correta todas essas informações.
 
 ##
 
