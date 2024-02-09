@@ -182,7 +182,7 @@
 ##
 
 ## Comentários
-Muito interessante a funcionalidade da ferramenta para estabelecimentos que prestam serviço. A análise funciona muito bem identificando as frases-chaves, sentimento, localização, e a busca agrega de forma correta todas essas informações.
+Muito interessante a funcionalidade da ferramenta para estabelecimentos que prestam serviço. A análise funciona muito bem identificando as frases-chaves, sentimento, localização, e a busca agrega de forma correta todas essas informações. É possível saber quais são as causas das reviews negativas, por exemplo, já que as frases-chaves trazem essa informação. Assim, fica mais fácil de resolver o problema da insatisfação do cliente.
 
 ##
 
