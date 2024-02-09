@@ -139,15 +139,33 @@
 
        ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/b6393f6b-e382-41b6-a762-d0a1774d2fa7)
 
-  - Selecione as demais informações conforme imagem abaixo
+  - Selecione as demais informações conforme imagem abaixo e clique em "Next: Customize target index"
       
-  ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/8b97ad1e-257e-4b3f-9388-d062f0462736)
-
+  ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/3b6eb84a-0115-4c31-b870-9f4effccb7e1)
+  ![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/9526b769-a45c-42b0-8d15-f09132d4875f)
 
 ## Passo 14
+- Na aba "Customize target index", preencha conforme imagem abaixo
 
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/de123734-a189-4522-8b1b-e13f801ff8e7)
 
 ## Passo 15
+- Em "Create an indexer", preencha conforme imagem abaixo
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/a2b7d650-9e75-45aa-bad6-3cde2556094e)
+
+ - Abra a aba "Advanced options", marque a opção "Base-64 Encode Keys", e clique em "submit"
+   
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/edace7c5-610d-4af2-9f2d-651c9636b233)
+
+![image](https://github.com/giselle-ferreira/ai-search-microsoft-azure/assets/84051263/5f321bd9-fe19-4f9f-b64f-2b90952c201c)
+
+
+
+## Passo 16
+
+
+## Passo 17
 
 
 
